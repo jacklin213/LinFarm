@@ -1,0 +1,6 @@
+name: LinFarm
+version: 1.0
+description: Stops farmland, plots , soil turning back to dirt
+author: jacklin213
+
+main: me.jacklin213.linfarm.LinFarm
